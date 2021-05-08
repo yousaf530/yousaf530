@@ -30,7 +30,7 @@ Welcome to my profile! I'm a Computer Science Student, an aspiring Data Scientis
 
 <h2> 🔰 &nbsp;Profile Stats</h2>
 <br>
-<p align='center'>
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousaf530&langs_count=8&theme=tokyonight&layout=compact" alt="Yousaf :: Top Langs" />  
 </p>
 <h2> 🔰 &nbsp;Connect with me</h2>
