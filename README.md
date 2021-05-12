@@ -27,13 +27,3 @@ Welcome to my profile! I'm a Computer Science Student, an aspiring Data Scientis
 ![Git](https://img.shields.io/badge/Git-F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-100000)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420)
-
-<h2> 🔰 &nbsp;Profile Stats</h2>
-<br>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousaf530&langs_count=8&theme=tokyonight&layout=compact" alt="Yousaf :: Top Langs" />  
-</p>
-<h2> 🔰 &nbsp;Connect with me</h2>
-<br>
-
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yousafsaddique523@gmail.com)](mailto:yousafsaddique523@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousaf530/)
