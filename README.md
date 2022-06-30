@@ -1,12 +1,12 @@
 # Hey! I'm Yousaf 👋
 
-Welcome to my profile! I'm a Computer Science Student, an aspiring Data Scientist with major interest in data-driven decision making for business growth. I use a number of tools in additon to programming languages for analysis, visualization and data story telling that you'll see below. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/yousaf530/" target='_blank'> connect. </a>
+Welcome to my profile! I'm a Computer Science graduate, a Data Professional with major interest in playing with data and analytics for informed decision making in every aspect of personal and professional life. I use a number of tools in additon to programming languages for analysis, visualization and data story telling that you'll see below. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/yousaf530/" target='_blank'> connect. </a>
 
-- 🌱 I’m currently learning <a href="https://www.sv-europe.com/crisp-dm-methodology/#:~:text=CRISP%2DDM%20stands%20for%20cross,claim%20any%20ownership%20over%20it." target='_blank'> CRISP-DM </a>
+- 🌱 I’m currently learning <a href="https://www.sv-europe.com/crisp-dm-methodology/#:~:text=CRISP%2DDM%20stands%20for%20cross,claim%20any%20ownership%20over%20it." target='_blank'> CRISP-DM </a> and AWS Cloud.
 
 - 💬 Ask me about Data Science and Analysis Processes in general, I am always <br> available to help and learn together.
 
-- ⚡ Fun fact: I love to tell stories based on data.
+- ⚡ Fun fact: I love to tell stories based on data and automate hectic manual processes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <br>
