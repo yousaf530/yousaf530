@@ -1,12 +1,13 @@
 # Hey! I'm Yousaf 👋
 
-Welcome to my profile! I'm a Computer Science graduate, a Data Professional with major interest in playing with data and analytics for informed decision making in every aspect of personal and professional life. I use a number of tools in additon to programming languages for analysis, visualization and data story telling that you'll see below. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/yousaf530/" target='_blank'> connect. </a>
+I am a Data Analyst with expertise in data manipulation, processing, analytics and automations for informed decision making and automate manual business tasks. I use a number of tools in additon to programming languages for analysis, visualization and data story telling that you'll see below. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/yousaf530/" target='_blank'> connect. </a>
 
-- 🌱 I’m currently learning <a href="https://www.sv-europe.com/crisp-dm-methodology/#:~:text=CRISP%2DDM%20stands%20for%20cross,claim%20any%20ownership%20over%20it." target='_blank'> CRISP-DM </a> and AWS Cloud.
+- 🌱 I’m currently implementing and learning <a href="https://www.sv-europe.com/crisp-dm-methodology/#:~:text=CRISP%2DDM%20stands%20for%20cross,claim%20any%20ownership%20over%20it." target='_blank'> CRISP-DM </a> and AWS Cloud Automations.
 
-- 💬 Ask me about Data Science and Analysis Processes in general, I am always <br> available to help and learn together.
+- I provide freelance Data Analytics, Automations and Data Science based services. You can reach me out on [Fiverr](https://www.fiverr.com/yousafsaddique) and [Upwork](https://www.upwork.com/freelancers/~01ea8e7380f0e36b47).
 
-- ⚡ Fun fact: I love to tell stories based on data and automate hectic manual processes.
+- ⚡ Fun fact: I love to tell stories based on data and automate boring manual stuff related to data and in general.
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <br>
