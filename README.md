@@ -78,8 +78,8 @@ I combine traditional ETL and modern cloud data engineering to build secure, rel
         <br>Git
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub Logo">
-        <br>GitHub
+       <img src="https://cdn.simpleicons.org/teradata/F52B23" width="70" alt="Teradata Logo">
+        <br>Teradata
     </td>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux Logo">
